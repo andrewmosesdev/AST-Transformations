@@ -22,7 +22,7 @@ module.exports = function (file, api) {
       let newPath = obj;
       const pathArr = pathString.value.split(".");
 
-      pathArr.forEach((p, i) => {
+      pathArr.forEach((p) => {
         newPath = j.optionalMemberExpression(newPath, j.identifier(p));
       });
 

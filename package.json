@@ -1,0 +1,22 @@
+{
+  "name": "ast-transformations",
+  "version": "1.0.0",
+  "description": "Fun with ASTs and jscodeshift",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewmosesdev/AST-Transformations.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewmosesdev/AST-Transformations/issues"
+  },
+  "homepage": "https://github.com/andrewmosesdev/AST-Transformations#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
