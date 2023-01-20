@@ -1,2 +1,2 @@
 # AST-Transformations
-Fun with ASTs and jscodeshift
+Fun with ASTs and code transformations
